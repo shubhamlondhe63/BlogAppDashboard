@@ -1,0 +1,6 @@
+footer{
+    /* height: 60px; */
+    padding: 15px;
+    background-color: var(--body-text-color) !important;
+    color: white !important;
+}
